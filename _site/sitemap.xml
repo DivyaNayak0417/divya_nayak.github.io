@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/Salary-Analysis/</loc>
+<lastmod>2023-01-01T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/Maven-Airlines-Analytics/</loc>
+<lastmod>2023-02-01T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/Webscrapping_using_python/</loc>
+<lastmod>2023-05-01T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/post/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/default.html</loc>
+<lastmod>2023-07-05T05:25:39+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/images/data_scientist_jobs_screenshot.html</loc>
+<lastmod>2023-10-16T10:43:36+05:30</lastmod>
+</url>
+</urlset>

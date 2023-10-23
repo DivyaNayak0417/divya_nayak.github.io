@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-10-16T12:07:24+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Divya Nayak</title><subtitle>Data Analyst</subtitle><entry><title type="html">Automated LinkedIn Job Listing Retrieval and Parsing using Python with BeautifulSoup.</title><link href="http://localhost:4000/Webscrapping_using_python/" rel="alternate" type="text/html" title="Automated LinkedIn Job Listing Retrieval and Parsing using Python with BeautifulSoup." /><published>2023-05-01T00:00:00+05:30</published><updated>2023-05-01T00:00:00+05:30</updated><id>http://localhost:4000/Webscrapping_using_python</id><content type="html" xml:base="http://localhost:4000/Webscrapping_using_python/">&lt;p align=&quot;center&quot;&gt;
+  &lt;img width=&quot;800&quot; height=&quot;400&quot; src=&quot;/images/Data_Scientist_job.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The objective of this project is to automate the process of fetching job listings from
+LinkedIn by specifying job titles and locations using Python libraries. To extract job-specific information from LinkedIn, I employ web scraping techniques to parse the HTML pages, and for this parsing task, I utilize BeautifulSoup.&lt;/p&gt;
+
+&lt;p&gt;Beautiful Soup is a library that simplifies the extraction of data from web pages. It functions on top of an HTML or XML parser, offering Pythonic approaches for navigating, searching, and manipulating the parsed content. Below is a glimpse of the HTML page structure that we’re working with.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img width=&quot;800&quot; height=&quot;400&quot; src=&quot;/images/html_page_for_jobs.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;From the provided HTML page, I extract specific job-related information for positions located in California. The details I retrieve include:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Company Name&lt;/li&gt;
+  &lt;li&gt;Job Title&lt;/li&gt;
+  &lt;li&gt;Job Location&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To obtain this data, I carefully analyze the HTML structure and employ specific tags to isolate the relevant information. The code snippet below demonstrates the tags I’ve utilized to extract the pertinent details and showcases the corresponding output.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img width=&quot;1000&quot; height=&quot;400&quot; src=&quot;/images/code_for_web_scrspping.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Output after extracting relevant deatils from HTML page&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img width=&quot;800&quot; height=&quot;400&quot; src=&quot;/images/web_scrapping_output.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;You can find the jupyter notebook on my github here &lt;a href=&quot;https://github.com/DivyaNayak0417/Webscraping_Python/blob/main/Webscraping_Project.ipynb&quot;&gt;Automated LinkedIn Job Listing Retrieval&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Airlines Customer Satisfaction Dashboard</title><link href="http://localhost:4000/Maven-Airlines-Analytics/" rel="alternate" type="text/html" title="Airlines Customer Satisfaction Dashboard" /><published>2023-02-01T00:00:00+05:30</published><updated>2023-02-01T00:00:00+05:30</updated><id>http://localhost:4000/Maven-Airlines-Analytics</id><content type="html" xml:base="http://localhost:4000/Maven-Airlines-Analytics/">&lt;p align=&quot;center&quot;&gt;
+  &lt;img width=&quot;800&quot; height=&quot;400&quot; src=&quot;/images/Maven_airlines_challenge.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The Airlines Customer Satisfaction Dashboard is a personal project that utilizes business intelligence analytics to gain insights into customer satisfaction across age groups for an airline carrier. By cleaning and merging data, the dashboard highlights areas for improvement, such as online booking and in-flight Wi-Fi, particularly for economy class customers. A
+Likert chart simplifies survey response analysis. This dashboard serves as a valuable tool for the airline to enhance services, monitor satisfaction, and make data-driven decisions for an improved travel experience.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Salary Analysis using Tableau</title><link href="http://localhost:4000/Salary-Analysis/" rel="alternate" type="text/html" title="Salary Analysis using Tableau" /><published>2023-01-01T00:00:00+05:30</published><updated>2023-01-01T00:00:00+05:30</updated><id>http://localhost:4000/Salary-Analysis</id><content type="html" xml:base="http://localhost:4000/Salary-Analysis/">&lt;p align=&quot;center&quot;&gt;
+  &lt;img width=&quot;800&quot; height=&quot;400&quot; src=&quot;/images/DataScience_SalaryAnalysis.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;!-- The Dashboard for Data Science Jobs and Salaries is a personal project utilizing Tableau to analyze the growth of data science jobs and average salaries. By transforming data in Excel and creating a dynamic dashboard, valuable insights have been gained, including a 30% increase in data science jobs post Covid-19, 63% of the jobs being remote, and the United States having the highest number of data science job opportunities. This concise and visually appealing dashboard provides a comprehensive overview of the data science job market trends, aiding professionals in making informed decisions and planning their careers. --&gt;
+
+&lt;p&gt;In the ever-evolving landscape of data science, the Dashboard for Data Science Jobs and Salaries stands as a testament to my passion for dissecting trends and uncovering insights. Developed using the robust capabilities of Tableau, this personal project serves as a compelling window into the dynamic world of data science employment. Through meticulous data transformation and the seamless integration of Excel, I have crafted a dynamic and interactive dashboard that sheds light on the fascinating realm of data science job growth and salary trends.&lt;/p&gt;
+
+&lt;p&gt;In the wake of the global Covid-19 pandemic, the data science job market experienced a seismic shift, and this dashboard captures the resulting narrative. By harnessing the power of data visualization, I have unearthed a pivotal revelation: a substantial 30% surge in data science job opportunities post Covid-19. This surge not only underscores the resilience of the field but also highlights the increasing demand for data-driven expertise in a rapidly changing world.&lt;/p&gt;
+
+&lt;p&gt;Delving deeper into the data, another noteworthy revelation emerges—63% of these newly emerging data science roles are remote positions. This shift toward remote work signifies a paradigmatic transformation in how organizations approach talent acquisition, reflecting a broader trend reshaping the modern workplace. The dynamic dashboard impeccably conveys this shift, painting a vivid picture of the evolving employment landscape in the data science domain.&lt;/p&gt;
+
+&lt;p&gt;Beyond geographical boundaries, the Dashboard for Data Science Jobs and Salaries presents a fascinating revelation about the geography of data science opportunities. As the curtain rises on this digital panorama, the United States emerges as a focal point of data science job prospects. With the highest concentration of data science job opportunities, the United States becomes a beacon for professionals seeking to embark on or advance their data science careers.&lt;/p&gt;
+
+&lt;p&gt;This concise and visually captivating dashboard doesn’t merely present data—it imparts actionable insights. A comprehensive overview of data science job market trends comes to life through engaging visuals, empowering professionals to make informed decisions as they navigate their career trajectories. This dashboard is not just a visual masterpiece; it is a tool that equips individuals with the knowledge they need to plan their careers strategically, seize emerging opportunities, and thrive in the exhilarating realm of data science&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
